@@ -1,7 +1,5 @@
 # eShopOnWeb-main
 
-The eShopOnWeb repository has been updated and moved to https://github.com/dotnet/eShop. Active development will continue there. For building web apps with enterprise app patterns, you can refer to the Reliable Web App patterns guidance.
-
 This reference application, powered by Microsoft, showcases a monolithic application architecture and deployment model. If you're new to .NET development, you can find guidance in the Getting Started for Beginners guide.
 
 A list of Frequently Asked Questions about this repository can be found here.
